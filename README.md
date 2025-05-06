@@ -1,6 +1,6 @@
 # CooperationMiner
 
-**Text Mining for Social Dilemma Analysis**
+**Text Mining for Social Science Analysis**
 
 Developed by Pejman Ebrahimi (pejman.ebrahimi@uni.li)
 
