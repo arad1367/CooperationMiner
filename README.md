@@ -141,13 +141,13 @@ Basic workflow:
 ## Screenshots
 
 ### Main Interface
-![Main Interface](C1.png)
+![Main Interface](C3.png)
 
 ### Topic Modeling Analysis
 ![Topic Modeling](C2.png)
 
 ### Data Visualization
-![Visualizations](C3.png)
+![Visualizations](C1.png)
 
 ## Troubleshooting
 
